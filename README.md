@@ -9,6 +9,6 @@
 8. Clone o repositório <br>
 
 // Passo a passo para atualizar o repositório do Github pelo VScode: <br>
-1. Use o comando 'git add + <nome do arquivo>' <br>
+1. Use o comando 'git add + [nome do arquivo]' <br>
 2. Use o comando 'git commit -m global' para permitir a atualização <br>
 3. Use o comando 'git push' para executar a atualização <br>
